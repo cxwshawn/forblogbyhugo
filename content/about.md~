@@ -1,0 +1,17 @@
++++
+bigimg = ""
+date = "2016-05-06T21:30:02+08:00"
+subtitle = ""
+title = "个人简介"
+
++++
+
+＃TARGET
+## Romance1
+	#include <stdio.h>
+	int main() {
+	    printf("选择自由,过浪漫的生活...\n");
+	    return 0;
+        }
+## Romance2
+

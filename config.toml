@@ -1,0 +1,26 @@
+baseurl = "http://cxwshawn.github.io"
+languageCode = "zh-cn"
+title = "programming life"
+theme = "beautifulhugo"
+pygmentsUseClasses = true
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  logo = "img/me.jpeg"
+  subtitle = "Work hard, To be better!"
+
+[Author]
+  name = "Shawn Chen"
+  email = "cxwshawn@gmail.com"
+  github = "https://github.com/cxwshawn"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
